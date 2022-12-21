@@ -1,1 +1,1 @@
-A simple project to test the light/dark themes.
+A simple mandatory Frontend Project :D
